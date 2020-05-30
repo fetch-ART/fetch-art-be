@@ -1,5 +1,6 @@
 module.exports = [
   {
+    // looks like these favorites have more fields than are covered in your create-tables.js 
     id: 'XHSYzoIC_SM',
     description: 'Microsoft Surface Laptop 3 in platinum\r\n\r\nshot by: Christiann Koepke',
     alt_description: 'woman in red and white plaid long sleeve shirt using platinum coloured microsoft surface laptop computer',

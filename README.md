@@ -1,5 +1,8 @@
 # Create Alchemy SQL BE -
 
+
+// You could have gotten the back end tests working by checking keys individually and checking that they 1) exist, and 2) are of the correct type, even if you cannot predict the actual value of, for example, the token
+
 ## Getting started
 1. Change all the files in the `data` directory to match the data model of your app.
 1. Run `heroku create`
